@@ -1,0 +1,613 @@
+{
+  "index": {
+    "title": "Home Tremfya IBD",
+    "pdf": "pdf/00_Home_Tremfya_IBD_AIFA.pdf",
+    "cp": null,
+    "pages": [
+      {
+        "width": 954.0,
+        "height": 2721.0,
+        "anchor": "pagina-1",
+        "links": [
+          {
+            "rect": [
+              93.0,
+              1986.0,
+              189.0,
+              2020.0
+            ],
+            "href": "https://eu-assets.contentstack.com/v3/assets/blt0090d6170c12be15/blt2e5cc193013f4daa/69490f836b50eaa143296d7f/RCP-Tremfya-100mg-onepress-pushpen.pdf",
+            "external": true,
+            "label": "Apri RCP-Tremfya-100mg-onepress-pushpen.pdf"
+          },
+          {
+            "rect": [
+              290.0,
+              1986.0,
+              386.0,
+              2020.0
+            ],
+            "href": "https://eu-assets.contentstack.com/v3/assets/blt0090d6170c12be15/bltaf10976480b1588e/69490efb4830a13eabc6268a/RCP-Tremfya-100mg-siringa-dicembre2025.pdf",
+            "external": true,
+            "label": "Apri RCP-Tremfya-100mg-siringa-dicembre2025.pdf"
+          },
+          {
+            "rect": [
+              486.5,
+              1986.0,
+              582.5,
+              2020.0
+            ],
+            "href": "https://eu-assets.contentstack.com/v3/assets/blt0090d6170c12be15/bltdc319d6e41a38c7a/6a8f0e2e9e8089de28aed329/RCP-Tremfya-200mg-PFS-PFP-dicembre-2025-clean.pdf",
+            "external": true,
+            "label": "Apri RCP-Tremfya-200mg-PFS-PFP-dicembre-2025-clean.pdf"
+          },
+          {
+            "rect": [
+              683.5,
+              1986.0,
+              779.5,
+              2020.0
+            ],
+            "href": "https://eu-assets.contentstack.com/v3/assets/blt0090d6170c12be15/bltc8b077c4046b6005/69491cabc3c849a43004dff6/RCP-Tremfya-200mg-VIAL-dicembre2025.pdf",
+            "external": true,
+            "label": "Apri RCP-Tremfya-200mg-VIAL-dicembre2025.pdf"
+          },
+          {
+            "rect": [
+              112.5,
+              914.0,
+              182.5,
+              932.0
+            ],
+            "href": "meccanismo-azione.html#pagina-1",
+            "material": "meccanismo-azione",
+            "label": "Apri Meccanismo d’azione"
+          },
+          {
+            "rect": [
+              372.5,
+              889.0,
+              460.0,
+              907.0
+            ],
+            "href": "colite-ulcerosa.html#pagina-1",
+            "material": "colite-ulcerosa",
+            "label": "Apri Efficacia nella colite ulcerosa"
+          },
+          {
+            "rect": [
+              372.5,
+              914.0,
+              457.5,
+              931.0
+            ],
+            "href": "crohn.html#pagina-1",
+            "material": "crohn",
+            "label": "Apri Efficacia nella malattia di Crohn"
+          },
+          {
+            "rect": [
+              635.0,
+              889.0,
+              815.0,
+              907.0
+            ],
+            "href": "posologia.html#pagina-1",
+            "material": "posologia",
+            "label": "Apri Posologia e somministrazione"
+          },
+          {
+            "rect": [
+              635.0,
+              914.0,
+              724.0,
+              931.0
+            ],
+            "href": "pushpen.html#pagina-1",
+            "material": "pushpen",
+            "label": "Apri Device PushPen"
+          }
+        ]
+      }
+    ],
+    "toc": [
+      {
+        "label": "Home Tremfya IBD",
+        "href": "#pagina-1"
+      }
+    ]
+  },
+  "colite-ulcerosa": {
+    "title": "Efficacia nella colite ulcerosa",
+    "pdf": "pdf/01_Efficacia_Colite_Ulcerosa_AIFA.pdf",
+    "cp": "CP-603518",
+    "pages": [
+      {
+        "width": 955.0,
+        "height": 5710.0,
+        "anchor": "pagina-1",
+        "links": [
+          {
+            "rect": [
+              157.5,
+              5121.5,
+              237.5,
+              5149.5
+            ],
+            "href": "https://eu-assets.contentstack.com/v3/assets/blt0090d6170c12be15/blt2e5cc193013f4daa/69490f836b50eaa143296d7f/RCP-Tremfya-100mg-onepress-pushpen.pdf",
+            "external": true,
+            "label": "Apri RCP-Tremfya-100mg-onepress-pushpen.pdf"
+          },
+          {
+            "rect": [
+              321.5,
+              5121.5,
+              401.5,
+              5149.5
+            ],
+            "href": "https://eu-assets.contentstack.com/v3/assets/blt0090d6170c12be15/bltaf10976480b1588e/69490efb4830a13eabc6268a/RCP-Tremfya-100mg-siringa-dicembre2025.pdf",
+            "external": true,
+            "label": "Apri RCP-Tremfya-100mg-siringa-dicembre2025.pdf"
+          },
+          {
+            "rect": [
+              485.5,
+              5121.5,
+              565.5,
+              5149.5
+            ],
+            "href": "https://eu-assets.contentstack.com/v3/assets/blt0090d6170c12be15/bltdc319d6e41a38c7a/6a8f0e2e9e8089de28aed329/RCP-Tremfya-200mg-PFS-PFP-dicembre-2025-clean.pdf",
+            "external": true,
+            "label": "Apri RCP-Tremfya-200mg-PFS-PFP-dicembre-2025-clean.pdf"
+          },
+          {
+            "rect": [
+              649.5,
+              5121.5,
+              729.5,
+              5149.5
+            ],
+            "href": "https://eu-assets.contentstack.com/v3/assets/blt0090d6170c12be15/bltc8b077c4046b6005/69491cabc3c849a43004dff6/RCP-Tremfya-200mg-VIAL-dicembre2025.pdf",
+            "external": true,
+            "label": "Apri RCP-Tremfya-200mg-VIAL-dicembre2025.pdf"
+          },
+          {
+            "rect": [
+              682.5,
+              1806.0,
+              765.5,
+              1823.5
+            ],
+            "href": "#figura-2-rif-2",
+            "label": "Apri figura 2 rif 2"
+          },
+          {
+            "rect": [
+              673.5,
+              2305.5,
+              756.5,
+              2322.5
+            ],
+            "href": "#figura-4-rif-2",
+            "label": "Apri figura 4 rif 2"
+          }
+        ]
+      },
+      {
+        "width": 753.5999755859375,
+        "height": 500.1600036621094,
+        "anchor": "figura-2-rif-2",
+        "links": []
+      },
+      {
+        "width": 750.5999755859375,
+        "height": 501.0,
+        "anchor": "figura-4-rif-2",
+        "links": []
+      }
+    ],
+    "toc": [
+      {
+        "label": "Efficacia nella colite ulcerosa",
+        "href": "#pagina-1"
+      },
+      {
+        "label": "Figura 2 integrale di Rif. 2",
+        "href": "#figura-2-rif-2"
+      },
+      {
+        "label": "Figura 4 integrale di Rif. 2",
+        "href": "#figura-4-rif-2"
+      }
+    ]
+  },
+  "crohn": {
+    "title": "Efficacia nella malattia di Crohn",
+    "pdf": "pdf/02_Efficacia_Malattia_Crohn_AIFA.pdf",
+    "cp": "CP-603519",
+    "pages": [
+      {
+        "width": 955.0,
+        "height": 5424.0,
+        "anchor": "pagina-1",
+        "links": [
+          {
+            "rect": [
+              177.5,
+              4803.5,
+              252.5,
+              4829.5
+            ],
+            "href": "https://eu-assets.contentstack.com/v3/assets/blt0090d6170c12be15/blt2e5cc193013f4daa/69490f836b50eaa143296d7f/RCP-Tremfya-100mg-onepress-pushpen.pdf",
+            "external": true,
+            "label": "Apri RCP-Tremfya-100mg-onepress-pushpen.pdf"
+          },
+          {
+            "rect": [
+              331.5,
+              4803.5,
+              406.5,
+              4829.5
+            ],
+            "href": "https://eu-assets.contentstack.com/v3/assets/blt0090d6170c12be15/bltaf10976480b1588e/69490efb4830a13eabc6268a/RCP-Tremfya-100mg-siringa-dicembre2025.pdf",
+            "external": true,
+            "label": "Apri RCP-Tremfya-100mg-siringa-dicembre2025.pdf"
+          },
+          {
+            "rect": [
+              485.0,
+              4803.5,
+              560.0,
+              4829.5
+            ],
+            "href": "https://eu-assets.contentstack.com/v3/assets/blt0090d6170c12be15/bltdc319d6e41a38c7a/6a8f0e2e9e8089de28aed329/RCP-Tremfya-200mg-PFS-PFP-dicembre-2025-clean.pdf",
+            "external": true,
+            "label": "Apri RCP-Tremfya-200mg-PFS-PFP-dicembre-2025-clean.pdf"
+          },
+          {
+            "rect": [
+              639.0,
+              4803.5,
+              714.0,
+              4829.5
+            ],
+            "href": "https://eu-assets.contentstack.com/v3/assets/blt0090d6170c12be15/bltc8b077c4046b6005/69491cabc3c849a43004dff6/RCP-Tremfya-200mg-VIAL-dicembre2025.pdf",
+            "external": true,
+            "label": "Apri RCP-Tremfya-200mg-VIAL-dicembre2025.pdf"
+          },
+          {
+            "rect": [
+              668.5,
+              2388.0,
+              748.0,
+              2404.5
+            ],
+            "href": "#figura-2-rif-4",
+            "label": "Apri figura 2 rif 4"
+          },
+          {
+            "rect": [
+              668.5,
+              2799.5,
+              748.0,
+              2816.0
+            ],
+            "href": "#figura-2-rif-4",
+            "label": "Apri figura 2 rif 4"
+          }
+        ]
+      },
+      {
+        "width": 746.8800048828125,
+        "height": 496.32000732421875,
+        "anchor": "figura-2-rif-4",
+        "links": []
+      }
+    ],
+    "toc": [
+      {
+        "label": "Efficacia nella malattia di Crohn",
+        "href": "#pagina-1"
+      },
+      {
+        "label": "Figura 2 di Rif. 4 - GRAVITI",
+        "href": "#figura-2-rif-4"
+      }
+    ]
+  },
+  "meccanismo-azione": {
+    "title": "Meccanismo d’azione",
+    "pdf": "pdf/03_Meccanismo_Azione_AIFA.pdf",
+    "cp": "CP-603612",
+    "pages": [
+      {
+        "width": 955.0,
+        "height": 2493.0,
+        "anchor": "pagina-1",
+        "links": [
+          {
+            "rect": [
+              177.5,
+              1892.0,
+              252.5,
+              1918.0
+            ],
+            "href": "https://eu-assets.contentstack.com/v3/assets/blt0090d6170c12be15/blt2e5cc193013f4daa/69490f836b50eaa143296d7f/RCP-Tremfya-100mg-onepress-pushpen.pdf",
+            "external": true,
+            "label": "Apri RCP-Tremfya-100mg-onepress-pushpen.pdf"
+          },
+          {
+            "rect": [
+              331.5,
+              1892.0,
+              406.5,
+              1918.0
+            ],
+            "href": "https://eu-assets.contentstack.com/v3/assets/blt0090d6170c12be15/bltaf10976480b1588e/69490efb4830a13eabc6268a/RCP-Tremfya-100mg-siringa-dicembre2025.pdf",
+            "external": true,
+            "label": "Apri RCP-Tremfya-100mg-siringa-dicembre2025.pdf"
+          },
+          {
+            "rect": [
+              485.0,
+              1892.0,
+              560.0,
+              1918.0
+            ],
+            "href": "https://eu-assets.contentstack.com/v3/assets/blt0090d6170c12be15/bltdc319d6e41a38c7a/6a8f0e2e9e8089de28aed329/RCP-Tremfya-200mg-PFS-PFP-dicembre-2025-clean.pdf",
+            "external": true,
+            "label": "Apri RCP-Tremfya-200mg-PFS-PFP-dicembre-2025-clean.pdf"
+          },
+          {
+            "rect": [
+              639.0,
+              1892.0,
+              714.0,
+              1918.0
+            ],
+            "href": "https://eu-assets.contentstack.com/v3/assets/blt0090d6170c12be15/bltc8b077c4046b6005/69491cabc3c849a43004dff6/RCP-Tremfya-200mg-VIAL-dicembre2025.pdf",
+            "external": true,
+            "label": "Apri RCP-Tremfya-200mg-VIAL-dicembre2025.pdf"
+          },
+          {
+            "rect": [
+              177.5,
+              636.5,
+              777.5,
+              974.0
+            ],
+            "href": "https://players.brightcove.net/1475651728001/default_default/index.html?videoId=6406363416112",
+            "external": true,
+            "label": "Riproduci il video"
+          }
+        ]
+      },
+      {
+        "width": 841.8897705078125,
+        "height": 595.2755737304688,
+        "anchor": "script-video",
+        "links": []
+      },
+      {
+        "width": 841.8897705078125,
+        "height": 595.2755737304688,
+        "anchor": "pagina-3",
+        "links": []
+      },
+      {
+        "width": 841.8897705078125,
+        "height": 595.2755737304688,
+        "anchor": "pagina-4",
+        "links": []
+      },
+      {
+        "width": 841.8897705078125,
+        "height": 595.2755737304688,
+        "anchor": "pagina-5",
+        "links": []
+      },
+      {
+        "width": 841.8897705078125,
+        "height": 595.2755737304688,
+        "anchor": "pagina-6",
+        "links": []
+      },
+      {
+        "width": 841.8897705078125,
+        "height": 595.2755737304688,
+        "anchor": "pagina-7",
+        "links": []
+      }
+    ],
+    "toc": [
+      {
+        "label": "Meccanismo d'azione",
+        "href": "#pagina-1"
+      },
+      {
+        "label": "Script video Meccanismo d'azione",
+        "href": "#script-video"
+      }
+    ]
+  },
+  "posologia": {
+    "title": "Posologia e somministrazione",
+    "pdf": "pdf/04_Posologia_Somministrazione_AIFA.pdf",
+    "cp": "CP-603521",
+    "pages": [
+      {
+        "width": 955.0,
+        "height": 2759.5,
+        "anchor": "pagina-1",
+        "links": [
+          {
+            "rect": [
+              177.5,
+              2184.5,
+              252.5,
+              2211.0
+            ],
+            "href": "https://eu-assets.contentstack.com/v3/assets/blt0090d6170c12be15/blt2e5cc193013f4daa/69490f836b50eaa143296d7f/RCP-Tremfya-100mg-onepress-pushpen.pdf",
+            "external": true,
+            "label": "Apri RCP-Tremfya-100mg-onepress-pushpen.pdf"
+          },
+          {
+            "rect": [
+              331.5,
+              2184.5,
+              406.5,
+              2211.0
+            ],
+            "href": "https://eu-assets.contentstack.com/v3/assets/blt0090d6170c12be15/bltaf10976480b1588e/69490efb4830a13eabc6268a/RCP-Tremfya-100mg-siringa-dicembre2025.pdf",
+            "external": true,
+            "label": "Apri RCP-Tremfya-100mg-siringa-dicembre2025.pdf"
+          },
+          {
+            "rect": [
+              485.0,
+              2184.5,
+              560.0,
+              2211.0
+            ],
+            "href": "https://eu-assets.contentstack.com/v3/assets/blt0090d6170c12be15/bltdc319d6e41a38c7a/6a8f0e2e9e8089de28aed329/RCP-Tremfya-200mg-PFS-PFP-dicembre-2025-clean.pdf",
+            "external": true,
+            "label": "Apri RCP-Tremfya-200mg-PFS-PFP-dicembre-2025-clean.pdf"
+          },
+          {
+            "rect": [
+              639.0,
+              2184.5,
+              714.0,
+              2211.0
+            ],
+            "href": "https://eu-assets.contentstack.com/v3/assets/blt0090d6170c12be15/bltc8b077c4046b6005/69491cabc3c849a43004dff6/RCP-Tremfya-200mg-VIAL-dicembre2025.pdf",
+            "external": true,
+            "label": "Apri RCP-Tremfya-200mg-VIAL-dicembre2025.pdf"
+          }
+        ]
+      }
+    ],
+    "toc": [
+      {
+        "label": "Posologia e somministrazione",
+        "href": "#pagina-1"
+      }
+    ]
+  },
+  "pushpen": {
+    "title": "Device PushPen",
+    "pdf": "pdf/05_Device_PushPen_AIFA.pdf",
+    "cp": "CP-603524",
+    "pages": [
+      {
+        "width": 954.0,
+        "height": 4957.0,
+        "anchor": "pagina-1",
+        "links": [
+          {
+            "rect": [
+              93.0,
+              4345.5,
+              189.0,
+              4379.0
+            ],
+            "href": "https://eu-assets.contentstack.com/v3/assets/blt0090d6170c12be15/blt2e5cc193013f4daa/69490f836b50eaa143296d7f/RCP-Tremfya-100mg-onepress-pushpen.pdf",
+            "external": true,
+            "label": "Apri RCP-Tremfya-100mg-onepress-pushpen.pdf"
+          },
+          {
+            "rect": [
+              290.0,
+              4345.5,
+              386.0,
+              4379.0
+            ],
+            "href": "https://eu-assets.contentstack.com/v3/assets/blt0090d6170c12be15/bltaf10976480b1588e/69490efb4830a13eabc6268a/RCP-Tremfya-100mg-siringa-dicembre2025.pdf",
+            "external": true,
+            "label": "Apri RCP-Tremfya-100mg-siringa-dicembre2025.pdf"
+          },
+          {
+            "rect": [
+              486.5,
+              4345.5,
+              582.5,
+              4379.0
+            ],
+            "href": "https://eu-assets.contentstack.com/v3/assets/blt0090d6170c12be15/bltdc319d6e41a38c7a/6a8f0e2e9e8089de28aed329/RCP-Tremfya-200mg-PFS-PFP-dicembre-2025-clean.pdf",
+            "external": true,
+            "label": "Apri RCP-Tremfya-200mg-PFS-PFP-dicembre-2025-clean.pdf"
+          },
+          {
+            "rect": [
+              683.5,
+              4345.5,
+              779.5,
+              4379.0
+            ],
+            "href": "https://eu-assets.contentstack.com/v3/assets/blt0090d6170c12be15/bltc8b077c4046b6005/69491cabc3c849a43004dff6/RCP-Tremfya-200mg-VIAL-dicembre2025.pdf",
+            "external": true,
+            "label": "Apri RCP-Tremfya-200mg-VIAL-dicembre2025.pdf"
+          },
+          {
+            "rect": [
+              93.0,
+              1210.0,
+              861.0,
+              1642.0
+            ],
+            "href": "https://players.brightcove.net/1475651728001/default_default/index.html?videoId=6406361199112",
+            "external": true,
+            "label": "Riproduci il video"
+          }
+        ]
+      },
+      {
+        "width": 1920.0,
+        "height": 1080.0,
+        "anchor": "script-video",
+        "links": []
+      },
+      {
+        "width": 1920.0,
+        "height": 1080.0,
+        "anchor": "pagina-3",
+        "links": []
+      },
+      {
+        "width": 1920.0,
+        "height": 1080.0,
+        "anchor": "pagina-4",
+        "links": []
+      },
+      {
+        "width": 1920.0,
+        "height": 1080.0,
+        "anchor": "pagina-5",
+        "links": []
+      },
+      {
+        "width": 1920.0,
+        "height": 1080.0,
+        "anchor": "pagina-6",
+        "links": []
+      },
+      {
+        "width": 1920.0,
+        "height": 1436.0,
+        "anchor": "pagina-7",
+        "links": []
+      }
+    ],
+    "toc": [
+      {
+        "label": "Device PushPen",
+        "href": "#pagina-1"
+      },
+      {
+        "label": "Script video Device PushPen",
+        "href": "#script-video"
+      }
+    ]
+  }
+}
