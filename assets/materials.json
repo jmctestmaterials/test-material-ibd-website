@@ -2,7 +2,7 @@
   "index": {
     "title": "Home Tremfya IBD",
     "pdf": "pdf/00_Home_Tremfya_IBD_AIFA.pdf",
-    "cp": null,
+    "cp": "CP-606669",
     "pages": [
       {
         "width": 954.0,
@@ -22,17 +22,6 @@
           },
           {
             "rect": [
-              290.0,
-              1986.0,
-              386.0,
-              2020.0
-            ],
-            "href": "https://eu-assets.contentstack.com/v3/assets/blt0090d6170c12be15/bltaf10976480b1588e/69490efb4830a13eabc6268a/RCP-Tremfya-100mg-siringa-dicembre2025.pdf",
-            "external": true,
-            "label": "Apri RCP-Tremfya-100mg-siringa-dicembre2025.pdf"
-          },
-          {
-            "rect": [
               486.5,
               1986.0,
               582.5,
@@ -44,69 +33,58 @@
           },
           {
             "rect": [
-              683.5,
-              1986.0,
-              779.5,
-              2020.0
-            ],
-            "href": "https://eu-assets.contentstack.com/v3/assets/blt0090d6170c12be15/bltc8b077c4046b6005/69491cabc3c849a43004dff6/RCP-Tremfya-200mg-VIAL-dicembre2025.pdf",
-            "external": true,
-            "label": "Apri RCP-Tremfya-200mg-VIAL-dicembre2025.pdf"
-          },
-          {
-            "rect": [
-              112.5,
-              914.0,
-              182.5,
-              932.0
+              112.0,
+              921.0,
+              256.0,
+              972.0
             ],
             "href": "meccanismo-azione.html#pagina-1",
             "material": "meccanismo-azione",
-            "label": "Apri Meccanismo d’azione"
+            "label": "Scopri di più: Meccanismo d’azione, CP-603612, deposito 10/11/2026"
           },
           {
             "rect": [
-              372.5,
-              889.0,
-              460.0,
-              907.0
+              372.0,
+              866.0,
+              516.0,
+              917.0
             ],
             "href": "colite-ulcerosa.html#pagina-1",
             "material": "colite-ulcerosa",
-            "label": "Apri Efficacia nella colite ulcerosa"
+            "label": "Scopri di più: Efficacia nell’UC, CP-603518, deposito 10/11/2026"
           },
           {
             "rect": [
-              372.5,
-              914.0,
-              457.5,
-              931.0
+              372.0,
+              921.0,
+              516.0,
+              972.0
             ],
             "href": "crohn.html#pagina-1",
             "material": "crohn",
-            "label": "Apri Efficacia nella malattia di Crohn"
+            "label": "Scopri di più: Efficacia nel CD, CP-603519, deposito 06/11/2026"
           },
           {
             "rect": [
               635.0,
-              889.0,
-              815.0,
-              907.0
+              866.0,
+              779.0,
+              917.0
             ],
             "href": "posologia.html#pagina-1",
             "material": "posologia",
-            "label": "Apri Posologia e somministrazione"
+            "label": "Scopri di più: Posologia nell’UC / nel CD, CP-603521, deposito 02/11/2026"
           },
           {
             "rect": [
               635.0,
-              914.0,
-              724.0,
-              931.0
+              921.0,
+              779.0,
+              972.0
             ],
             "href": "pushpen.html#pagina-1",
             "material": "pushpen",
-            "label": "Apri Device PushPen"
+            "label": "Scopri di più: Device PushPen, CP-603524, deposito 11/11/2026"
           }
         ]
       }
@@ -412,12 +390,6 @@
         "height": 595.2755737304688,
         "anchor": "pagina-6",
         "links": []
-      },
-      {
-        "width": 841.8897705078125,
-        "height": 595.2755737304688,
-        "anchor": "pagina-7",
-        "links": []
       }
     ],
     "toc": [
@@ -518,17 +490,6 @@
           },
           {
             "rect": [
-              290.0,
-              4345.5,
-              386.0,
-              4379.0
-            ],
-            "href": "https://eu-assets.contentstack.com/v3/assets/blt0090d6170c12be15/bltaf10976480b1588e/69490efb4830a13eabc6268a/RCP-Tremfya-100mg-siringa-dicembre2025.pdf",
-            "external": true,
-            "label": "Apri RCP-Tremfya-100mg-siringa-dicembre2025.pdf"
-          },
-          {
-            "rect": [
               486.5,
               4345.5,
               582.5,
@@ -537,17 +498,6 @@
             "href": "https://eu-assets.contentstack.com/v3/assets/blt0090d6170c12be15/bltdc319d6e41a38c7a/6a8f0e2e9e8089de28aed329/RCP-Tremfya-200mg-PFS-PFP-dicembre-2025-clean.pdf",
             "external": true,
             "label": "Apri RCP-Tremfya-200mg-PFS-PFP-dicembre-2025-clean.pdf"
-          },
-          {
-            "rect": [
-              683.5,
-              4345.5,
-              779.5,
-              4379.0
-            ],
-            "href": "https://eu-assets.contentstack.com/v3/assets/blt0090d6170c12be15/bltc8b077c4046b6005/69491cabc3c849a43004dff6/RCP-Tremfya-200mg-VIAL-dicembre2025.pdf",
-            "external": true,
-            "label": "Apri RCP-Tremfya-200mg-VIAL-dicembre2025.pdf"
           },
           {
             "rect": [
