@@ -85,6 +85,28 @@
             "href": "pushpen.html#pagina-1",
             "material": "pushpen",
             "label": "Scopri di più: Device PushPen, CP-603524, deposito 11/11/2026"
+          },
+          {
+            "rect": [
+              290.0,
+              1986.0,
+              386.0,
+              2020.0
+            ],
+            "href": "https://eu-assets.contentstack.com/v3/assets/blt0090d6170c12be15/bltaf10976480b1588e/69490efb4830a13eabc6268a/RCP-Tremfya-100mg-siringa-dicembre2025.pdf",
+            "external": true,
+            "label": "Apri RCP-Tremfya-100mg-siringa-dicembre2025.pdf"
+          },
+          {
+            "rect": [
+              683.5,
+              1986.0,
+              779.5,
+              2020.0
+            ],
+            "href": "https://eu-assets.contentstack.com/v3/assets/blt0090d6170c12be15/bltc8b077c4046b6005/69491cabc3c849a43004dff6/RCP-Tremfya-200mg-VIAL-dicembre2025.pdf",
+            "external": true,
+            "label": "Apri RCP-Tremfya-200mg-VIAL-dicembre2025.pdf"
           }
         ]
       }
@@ -390,6 +412,12 @@
         "height": 595.2755737304688,
         "anchor": "pagina-6",
         "links": []
+      },
+      {
+        "width": 841.8897705078125,
+        "height": 595.2755737304688,
+        "anchor": "pagina-7",
+        "links": []
       }
     ],
     "toc": [
@@ -400,6 +428,10 @@
       {
         "label": "Script video Meccanismo d'azione",
         "href": "#script-video"
+      },
+      {
+        "label": "Bibliografia dello script video",
+        "href": "#pagina-7"
       }
     ]
   },
