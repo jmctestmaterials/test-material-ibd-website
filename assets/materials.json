@@ -40,7 +40,7 @@
             ],
             "href": "meccanismo-azione.html#pagina-1",
             "material": "meccanismo-azione",
-            "label": "Scopri di più: Meccanismo d’azione, CP-603612, deposito 10/11/2026"
+            "label": "Scopri di più: Meccanismo d’azione, Codice AIFA: CP-603612, deposito 10/11/2026"
           },
           {
             "rect": [
@@ -51,7 +51,7 @@
             ],
             "href": "colite-ulcerosa.html#pagina-1",
             "material": "colite-ulcerosa",
-            "label": "Scopri di più: Efficacia nell’UC, CP-603518, deposito 10/11/2026"
+            "label": "Scopri di più: Efficacia nell’UC, Codice AIFA: CP-603518, deposito 10/11/2026"
           },
           {
             "rect": [
@@ -62,7 +62,7 @@
             ],
             "href": "crohn.html#pagina-1",
             "material": "crohn",
-            "label": "Scopri di più: Efficacia nel CD, CP-603519, deposito 06/11/2026"
+            "label": "Scopri di più: Efficacia nel CD, Codice AIFA: CP-603519, deposito 06/11/2026"
           },
           {
             "rect": [
@@ -73,7 +73,7 @@
             ],
             "href": "posologia.html#pagina-1",
             "material": "posologia",
-            "label": "Scopri di più: Posologia nell’UC / nel CD, CP-603521, deposito 02/11/2026"
+            "label": "Scopri di più: Posologia nell’UC / nel CD, Codice AIFA: CP-603521, deposito 02/11/2026"
           },
           {
             "rect": [
@@ -84,7 +84,7 @@
             ],
             "href": "pushpen.html#pagina-1",
             "material": "pushpen",
-            "label": "Scopri di più: Device PushPen, CP-603524, deposito 11/11/2026"
+            "label": "Scopri di più: Device PushPen, Codice AIFA: CP-603524, deposito 11/11/2026"
           },
           {
             "rect": [
@@ -382,56 +382,12 @@
             "label": "Riproduci il video"
           }
         ]
-      },
-      {
-        "width": 841.8897705078125,
-        "height": 595.2755737304688,
-        "anchor": "script-video",
-        "links": []
-      },
-      {
-        "width": 841.8897705078125,
-        "height": 595.2755737304688,
-        "anchor": "pagina-3",
-        "links": []
-      },
-      {
-        "width": 841.8897705078125,
-        "height": 595.2755737304688,
-        "anchor": "pagina-4",
-        "links": []
-      },
-      {
-        "width": 841.8897705078125,
-        "height": 595.2755737304688,
-        "anchor": "pagina-5",
-        "links": []
-      },
-      {
-        "width": 841.8897705078125,
-        "height": 595.2755737304688,
-        "anchor": "pagina-6",
-        "links": []
-      },
-      {
-        "width": 841.8897705078125,
-        "height": 595.2755737304688,
-        "anchor": "pagina-7",
-        "links": []
       }
     ],
     "toc": [
       {
         "label": "Meccanismo d'azione",
         "href": "#pagina-1"
-      },
-      {
-        "label": "Script video Meccanismo d'azione",
-        "href": "#script-video"
-      },
-      {
-        "label": "Bibliografia dello script video",
-        "href": "#pagina-7"
       }
     ]
   },
@@ -543,52 +499,12 @@
             "label": "Riproduci il video"
           }
         ]
-      },
-      {
-        "width": 1920.0,
-        "height": 1080.0,
-        "anchor": "script-video",
-        "links": []
-      },
-      {
-        "width": 1920.0,
-        "height": 1080.0,
-        "anchor": "pagina-3",
-        "links": []
-      },
-      {
-        "width": 1920.0,
-        "height": 1080.0,
-        "anchor": "pagina-4",
-        "links": []
-      },
-      {
-        "width": 1920.0,
-        "height": 1080.0,
-        "anchor": "pagina-5",
-        "links": []
-      },
-      {
-        "width": 1920.0,
-        "height": 1080.0,
-        "anchor": "pagina-6",
-        "links": []
-      },
-      {
-        "width": 1920.0,
-        "height": 1436.0,
-        "anchor": "pagina-7",
-        "links": []
       }
     ],
     "toc": [
       {
         "label": "Device PushPen",
         "href": "#pagina-1"
-      },
-      {
-        "label": "Script video Device PushPen",
-        "href": "#script-video"
       }
     ]
   }

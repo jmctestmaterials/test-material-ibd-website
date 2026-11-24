@@ -1,6 +1,6 @@
 # Tremfya IBD - sito virtuale con PDF incorporati
 
-Preparazione del 29/10/2026. Nessuna pubblicazione o invio email effettuato.
+Cartella operativa aggiornata il 24/11/2026 secondo la review iMR comunicata da Giusy il 23/11.
 
 ## File da caricare
 
@@ -9,9 +9,9 @@ Caricare insieme tutto il contenuto di questa cartella, mantenendo i percorsi:
 - `index.html`: HOME, una sola pagina PDF, con cinque collegamenti HTML ai materiali.
 - `colite-ulcerosa.html`: ultimo PDF UC, inclusa la didascalia QUASAR corretta.
 - `crohn.html`: ultimo PDF Crohn con figura integrale GRAVITI.
-- `meccanismo-azione.html`: ultimo PDF MOA con script completo.
+- `meccanismo-azione.html`: landing Meccanismo d’azione.
 - `posologia.html`: ultimo PDF posologia.
-- `pushpen.html`: ultimo PDF PushPen con tre referenze e nuova immagine finale sotto i tre frame.
+- `pushpen.html`: landing Device PushPen.
 - `pdf/`: documenti sorgenti; contenuti e dimensioni dei master conservati, immagini ricompresse in modo adattivo per l’upload.
 - `assets/`: lettore PDF.js, codice, stili e manifest delle ancore.
 - `destinazioni-home.json`: indirizzi dei cinque materiali nella HOME.
@@ -28,11 +28,9 @@ Esempi di ancore:
 - `colite-ulcerosa.html#figura-2-rif-2`
 - `colite-ulcerosa.html#figura-4-rif-2`
 - `crohn.html#figura-2-rif-4`
-- `meccanismo-azione.html#script-video`
-- `pushpen.html#script-video`
 - Ogni documento accetta anche `#pagina-1`, `#pagina-2`, ecc.
 
-I collegamenti esterni ai quattro RCP e ai video Brightcove sono conservati identici. L'indice del lettore consente di raggiungere script e pagine. HOME usa i link relativi ai cinque HTML: non incorpora più gli altri PDF in un documento unico. Il PDF della sola HOME, aperto separatamente dal lettore, e' una vista statica: la navigazione tra materiali appartiene al livello HTML.
+I collegamenti esterni ai quattro RCP e ai video Brightcove sono conservati. L’indice del lettore mostra solo le pagine incluse. La Home CP-606669 riporta «Codice AIFA:» davanti al CP di ogni landing. Nel lettore i cinque pulsanti aprono gli HTML del sito. Aprendo il PDF da solo, gli stessi pulsanti puntano agli URL GitHub Pages.
 
 ## Indirizzi GitHub da inserire successivamente
 
@@ -60,7 +58,7 @@ Non sono stati modificati i master PDF o i video, né aggiornati Brightcove o Co
 
 PDF.js 6.4.299, distribuzione ufficiale npm verificata con SHA-512. Licenza Apache 2.0 inclusa sotto `assets/vendor/LICENSE`; risorse del lettore distribuite localmente. Nessuna CDN necessaria al caricamento; RCP e player video continuano a usare gli URL esterni originali.
 
-Verifiche: sei HTML, sei PDF, 21 pagine complessive e 35 hotspot; struttura e contenuti verificati rispetto ai master; pagina HOME separata identica visivamente; browser reale su tutte le pagine, figure, script, HOME, zoom e viewport mobile. Report, inventario fonti, generatore e prova di integrità ZIP sono conservati nella cartella operativa superiore.
+La verifica del 24/11 conferma la corrispondenza tra l’indice del lettore e le pagine effettive dei sei PDF. Nei PDF di Meccanismo d’azione e Device PushPen resta la sola pagina della landing. Il dettaglio dei controlli e il generatore sono nella cartella superiore.
 
 La verifica tecnica non costituisce conferma dell'accettabilità regolatoria del formato da parte di AIFA.
 
@@ -76,7 +74,7 @@ La selezione delle risorse vale per questi PDF verificati. Prima di aggiungere n
 
 ## PDF alleggeriti
 
-Nuova edizione per l’upload web: JPEG qualità92 senza riduzione pixel, soltanto dove riduce effettivamente il peso. PushPen preservato integralmente, inclusi gli script ad alta risoluzione. I master originali restano conservati. Report tecnico nella cartella operativa superiore. Gli hash dei PDF compressi differiscono dai master; testi, correzioni, pagine, ancore e URL restano quelli approvati.
+I PDF web usano immagini ricompresse dove il procedimento riduce il peso. Il report tecnico di compressione è nella cartella superiore. Gli storyboard dei video restano nelle copie di archivio.
 
 
-Per aggiornare i PDF gia caricati: estrarre Solo_PDF_leggeri.zip, aprire la cartella pdf e caricare i sei PDF nella cartella pdf del repository, mantenendo i nomi esistenti. Se il caricamento multiplo fallisce, eseguire un file per commit. Non caricare lo ZIP ne il vecchio aggregatore HOME completo.
+Per aggiornare un sito già caricato, sostituire nello stesso aggiornamento `assets/materials.json` e i PDF Home, Meccanismo d’azione e Device PushPen con i file di questa cartella.
